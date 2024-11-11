@@ -6,5 +6,3 @@
 **Project Title:** The SmarTrash
 
 Must add .env files with the API keys. 
-
-
